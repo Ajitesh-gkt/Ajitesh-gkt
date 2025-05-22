@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajitesh</h1>
-<h3 align="center">A Machine learning and Data Science Enthusiast</h3>
+<h3 align="center">A developer who likes solving inconveniences and real life problems</h3>
 
-- 🌱 I’m currently learning **Langchain, FastAPI, Hugging Face transformers**
+- 🌱 I’m currently learning **Go lang, FastAPI, LangChain**
 
-- 💬 Ask me about **Machine Learning, Data Sceince**
+- 💬 Ask me about **Machine Learning, FastAPI, Azure**
 
 - 📫 How to reach me **ajitesh.gkt@gmail.com**
 
